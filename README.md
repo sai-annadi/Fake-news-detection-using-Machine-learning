@@ -43,7 +43,9 @@ To install the necessary libraries, you can use `pip`. Simply run:
 pip install scikit-learn numpy pandas matplotlib
 ```
 ## Usage
-1.Clone the project repository
-2.Navigate to the project directory
-3.Run the project and experiment with various machine learning algorithms and models
+  1.Clone the project repository.
+  
+  2.Navigate to the project directory.
+  
+  3.Run the project and experiment with various machine learning algorithms and models.
 
